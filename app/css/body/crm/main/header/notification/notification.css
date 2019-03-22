@@ -1,0 +1,16 @@
+.notification {
+  height: 20px;
+  cursor: pointer; }
+
+.notification__bell {
+  background-color: #f14e95;
+  border-radius: 8px;
+  font-size: 12px;
+  width: 16px;
+  height: 16px;
+  text-align: center;
+  color: white;
+  line-height: 14.9px;
+  position: relative;
+  bottom: 24px;
+  left: 13px; }

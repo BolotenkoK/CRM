@@ -1,0 +1,13 @@
+.menu-container {
+  display: inline-block;
+  width: 319px;
+  background-color: #303841;
+  min-height: 572px;
+  padding-top: 28px; }
+
+.menu-container__title {
+  font-size: 28px;
+  font-family: "MyriadPro-Light";
+  line-height: 0.857;
+  color: #ffc12d;
+  padding-left: 28px; }

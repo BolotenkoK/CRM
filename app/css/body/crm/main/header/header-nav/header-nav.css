@@ -1,0 +1,10 @@
+.header-nav {
+  width: 44%; }
+
+.header-nav__item {
+  padding-left: 3px;
+  letter-spacing: 0.1px;
+  cursor: pointer; }
+
+.header-nav__item_hover_blue:hover {
+  color: #442a9d; }
